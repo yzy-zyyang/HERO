@@ -61,9 +61,9 @@ from EmT_cls import EmT
 # =========================================================
 # Config
 # =========================================================
-INPUT_DIR = r'E:\YZY\ASD_eeg\2_eeg_mat'
-LABEL_CSV = r'E:\YZY\ASD_eeg\label.csv'
-RESULT_DIR = r'E:\YZY\ASD_eeg\GCN\PGCN-main\Compare\results_EmT_ASD'
+INPUT_DIR = r'E:\YZY\eeg\2_eeg_mat'
+LABEL_CSV = r'E:\YZY\eeg\label.csv'
+RESULT_DIR = r'E:\YZY\eeg\GCN\HERO-main\Compare\results_EmT_ASD'
 
 SELECTED_IDS = {"01", "02", "11", "12"}
 
