@@ -55,9 +55,9 @@ from sklearn.metrics import f1_score, precision_score, recall_score
 # =========================================================
 # 1. Config
 # =========================================================
-INPUT_DIR = r'E:\YZY\ASD_eeg\2_eeg_mat'
-LABEL_CSV = r'E:\YZY\ASD_eeg\label.csv'
-RESULT_DIR = r'E:\YZY\ASD_eeg\GCN\PGCN-main\Compare\results_ST-DADGAT'
+INPUT_DIR = r'E:\YZY\eeg\2_eeg_mat'
+LABEL_CSV = r'E:\YZY\eeg\label.csv'
+RESULT_DIR = r'E:\YZY\eeg\GCN\HERO-main\Compare\results_ST-DADGAT'
 
 SELECTED_IDS = {"01", "02", "11", "12"}
 
@@ -67,7 +67,7 @@ NUM_CLASSES = 4
 
 WINDOW_SIZE = 256
 STEP = 128
-FS = 200
+FS = 256
 
 BATCH_SIZE = 64
 EPOCHS = 20
