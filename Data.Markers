@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkerSet xmlns="http://www.brainproducts.com/MarkerSet">
+  <SamplingRate>500</SamplingRate>
+  <SamplingInterval>2</SamplingInterval>
+  <Markers>
+    <Marker>
+      <Type>New Segment</Type>
+      <Description></Description>
+      <Position>1</Position>
+      <Points>1</Points>
+      <Channel>All</Channel>
+      <Date>2024-05-23T10:41:25.337175</Date>
+    </Marker>
+  </Markers>
+</MarkerSet>
